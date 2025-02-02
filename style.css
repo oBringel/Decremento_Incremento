@@ -29,7 +29,7 @@ button{
 button:hover{
     background-color: rgb(108, 243, 243);
 }
-label{
+p{
 
     display: block;
     text-align: center;
